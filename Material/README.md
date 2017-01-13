@@ -12,6 +12,8 @@ Livros recomendados:
 
 * [Malware Analyst's Cookbook](https://repo.zenk-security.com/Virus-Infections-Detections-Preventions/Malware%20Analyst's%20Cookbook.pdf)
 
+* [Windows Malware Analysis Essentials](http://thehackernews.tradepub.com/free-offer/windows-malware-analysis-essentials-30-value-free-for-a-limited-time/w_pacb40?sr=hicat&_t=hicat:1207)
+
 Links interessantes:
 
 * http://digital-forensics.sans.org/blog/2010/11/12/get-started-with-malware-analysis/

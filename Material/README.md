@@ -25,14 +25,14 @@ Links interessantes:
 # Desenvolvimento Web
 
 * Apostila/Curso da CAELUM sobre HTML, CSS, Bootstrap e Javascript:
-** https://www.caelum.com.br/apostila-html-css-javascript/
+ * https://www.caelum.com.br/apostila-html-css-javascript/
 
 * Tutoriais sobre Bootstrap:
-** http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-introduction.php
-** http://www.w3schools.com/bootstrap/
+ * http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-introduction.php
+ * http://www.w3schools.com/bootstrap/
 
 * Livro sobre desenvolvimento Web usando DJango (conceitos básicos):
-** http://www.puyb.net/download/djangobook/res.pdf
+ * http://www.puyb.net/download/djangobook/res.pdf
 
 * Tutorial sobre desenvolvimento Web usando DJango (mais atualizado do que o livro):
-** https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+ * https://docs.djangoproject.com/en/1.10/intro/tutorial01/

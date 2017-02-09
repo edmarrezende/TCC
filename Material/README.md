@@ -18,9 +18,11 @@ Livros recomendados:
 
 Links interessantes:
 
-* http://digital-forensics.sans.org/blog/2010/11/12/get-started-with-malware-analysis/
+* [SANS Malware Analysis Blog](http://digital-forensics.sans.org/blog/2010/11/12/get-started-with-malware-analysis)
 
-* https://zeltser.com/build-malware-analysis-toolkit/
+* [5 Steps to Building a Malware Analysis Toolkit Using Free Tools](https://zeltser.com/build-malware-analysis-toolkit)
+
+* [Comparing Free Online Malware Analysis Sandboxes](https://securityintelligence.com/comparing-free-online-malware-analysis-sandboxes)
 
 # Desenvolvimento Web
 

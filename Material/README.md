@@ -28,6 +28,8 @@ Ferramentas para Android:
 
 * [Android Security Awesome](https://github.com/ashishb/android-security-awesome)
 
+* [Static and Dynamic Analysis for Android Malware Detection](http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1488&context=etd_projects)
+
 # Desenvolvimento Web
 
 * Apostila/Curso da CAELUM sobre HTML, CSS, Bootstrap e Javascript:

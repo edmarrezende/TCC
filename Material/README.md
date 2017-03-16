@@ -30,6 +30,11 @@ Ferramentas para Android:
 
 * [Static and Dynamic Analysis for Android Malware Detection](http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1488&context=etd_projects)
 
+* [MobiSec Lab](http://www.mobiseclab.org):
+ * [Akana](http://akana.mobiseclab.org/index.jsp): Akana is an Interactive Analysis Enviroment(IAE) for android app analysis and an AIO tool for a professional user to make an insight analysis of an android app.
+ * [Eacus](http://www.mobiseclab.org/eacus.jsp): Eacus is a lite (fast), but not that precise android malicious app checking framework.
+ * [ZeTa/Janus](http://www.appscan.io/): ZeTa is developed by our data mining team for finding security problem in mobile app.
+
 # Desenvolvimento Web
 
 * Apostila/Curso da CAELUM sobre HTML, CSS, Bootstrap e Javascript:
